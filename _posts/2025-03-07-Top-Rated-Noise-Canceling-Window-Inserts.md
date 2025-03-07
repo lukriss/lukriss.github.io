@@ -1,3 +1,4 @@
+---
 layout: post
 title: "City Dwellers, Rejoice: How to Block Sirens, Honks, and Construction Noise"
 date: 2025-03-07
