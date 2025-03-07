@@ -1,1 +1,21 @@
+---
+layout: default
+---
 
+<article>
+  <h1>{{ page.title }}</h1>
+  <p class="date">Published: {{ page.date | date: "%B %d, %Y" }}</p>
+
+  {{ content }}
+
+  {% if page.affiliate_links %}
+  <div class="affiliate-section">
+    <h2>Recommended Products</h2>
+    <ul>
+      {% for link in page.affiliate_links %}
+      <li><a href="{{ link.url }}" target="_blank">{{ link.title }}</a> - {{ link.description }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+</article>
