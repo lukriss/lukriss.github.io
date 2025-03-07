@@ -1,4 +1,4 @@
-# _config.yml
-theme: minima # Default GitHub Pages theme
-title: "SoundProof Living" # Replace with your site's title
-description: "Your site description"  # Optional
+title: "Soundproof Living"
+description: "Expert guides for noise reduction"
+theme: minima
+baseurl: "" # Leave empty for GitHub Pages
