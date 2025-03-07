@@ -1,5 +1,5 @@
 ---
-layout: ../layouts/Layout.astro
+layout: default
 title: "Soundproof Living - Your Guide to Noise-Canceling Window Solutions"
 ---
 
