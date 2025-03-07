@@ -1,4 +1,4 @@
 # _config.yml
-title: "Your Site Name"  # Replace with your site's title
+theme: minima  # Default GitHub Pages theme
+title: "SoundProof Living"  # Replace with your site's title
 description: "Your site description"  # Optional
-theme: minima  # GitHub's default Jekyll theme
