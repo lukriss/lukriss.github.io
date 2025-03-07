@@ -1,6 +1,7 @@
 ---
 title: "Welcome to My Site"
 ---
-# Hello World! 🌍
+## Latest Articles
+- [Check out the latest articles](/articles/article1.html)
 
 This is my homepage. Check out my [articles](/articles/).
