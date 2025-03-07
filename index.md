@@ -1,73 +1,74 @@
 ---
 layout: default
-title: "Soundproof Living - Your Guide to Noise-Canceling Window Solutions"
+title: "Soundproof Living - Noise Canceling Window Solutions"
 ---
 
-<link rel="stylesheet" href="../styles/home.css" />
-
-<div class="hero-section">
+<div class="hero">
   <h1>Transform Your Space into a Peaceful Haven</h1>
-  <p class="subtitle">Expert guides on noise-canceling window inserts for a quieter, more comfortable home</p>
+  <p class="subtitle">Expert guides on noise-canceling window solutions</p>
 </div>
 
-<div class="features-grid">
-  <div class="feature-card">
-    <img src="https://images.unsplash.com/photo-1516455590571-18256e5bb9ff?auto=format&fit=crop&w=800" alt="Peaceful Home Office" />
-    <h3>Home Office Solutions</h3>
-    <p>Create the perfect quiet workspace with our recommended window inserts</p>
-    <a href="/articles/home-office-solutions" class="read-more">Learn More →</a>
+<div class="feature-grid">
+  <div class="feature">
+    <img src="https://images.unsplash.com/photo-1516455590571-18256e5bb9ff" alt="Quiet workspace">
+    <h2>Home Office Solutions</h2>
+    <p>Create distraction-free work environments</p>
+    <a href="/articles/home-office-solutions">Learn More →</a>
   </div>
 
-  <div class="feature-card">
-    <img src="https://images.unsplash.com/photo-1560185007-c5ca9d2c014d?auto=format&fit=crop&w=800" alt="Bedroom Soundproofing" />
-    <h3>Better Sleep Solutions</h3>
-    <p>Transform your bedroom into a peaceful sanctuary</p>
-    <a href="/articles/bedroom-soundproofing" class="read-more">Learn More →</a>
+  <div class="feature">
+    <img src="https://images.unsplash.com/photo-1560185007-c5ca9d2c014d" alt="Quiet bedroom">
+    <h2>Sleep Sanctuary Guide</h2>
+    <p>Transform your bedroom for better rest</p>
+    <a href="/articles/bedroom-soundproofing">Learn More →</a>
   </div>
 
-  <div class="feature-card">
-    <img src="https://images.unsplash.com/photo-1527359443443-84a48aec73d2?auto=format&fit=crop&w=800" alt="Urban Living" />
-    <h3>Urban Noise Solutions</h3>
-    <p>Combat city noise with effective window treatments</p>
-    <a href="/articles/urban-solutions" class="read-more">Learn More →</a>
+  <div class="feature">
+    <img src="https://images.unsplash.com/photo-1527359443443-84a48aec73d2" alt="City apartment">
+    <h2>Urban Noise Solutions</h2>
+    <p>Combat city noise effectively</p>
+    <a href="/articles/urban-solutions">Learn More →</a>
   </div>
 </div>
 
-## Latest Guides & Reviews {.latest-articles}
+## Latest Resources
 
-<div class="article-grid">
-  <a href="/articles/best-acoustic-window-inserts-2024" class="article-card">
-    <span class="tag">Buying Guide</span>
-    <h4>Top 5 Acoustic Window Inserts for 2024</h4>
-    <p>Compare the best solutions for your home</p>
-  </a>
+<div class="resource-grid">
+  <article class="resource">
+    <h3>Top 5 Window Inserts for 2024</h3>
+    <p class="meta">Buyer's Guide</p>
+    <p>Compare top-rated acoustic solutions</p>
+    <a href="/articles/best-acoustic-window-inserts-2024">Read Guide</a>
+  </article>
 
-  <a href="/articles/diy-installation-guide" class="article-card">
-    <span class="tag">Installation</span>
-    <h4>DIY Installation Guide: Step by Step</h4>
-    <p>Easy-to-follow instructions for perfect fits</p>
-  </a>
+  <article class="resource">
+    <h3>DIY Installation Guide</h3>
+    <p class="meta">Tutorial</p>
+    <p>Step-by-step installation instructions</p>
+    <a href="/articles/diy-installation-guide">Get Started</a>
+  </article>
 
-  <a href="/articles/cost-comparison" class="article-card">
-    <span class="tag">Comparison</span>
-    <h4>Cost vs. Benefit Analysis</h4>
-    <p>Making the right investment for your home</p>
-  </a>
+  <article class="resource">
+    <h3>Cost vs Benefit Analysis</h3>
+    <p class="meta">Comparison</p>
+    <p>Smart investment strategies</p>
+    <a href="/articles/cost-comparison">See Breakdown</a>
+  </article>
 </div>
 
-## Why Trust Our Recommendations? {.why-us}
+## Why Trust Us?
 
-<div class="trust-points">
-  <div class="trust-item">
-    <strong>✓ Expert Testing</strong>
-    <p>We personally test and evaluate each product</p>
+<div class="credentials">
+  <div class="credential">
+    <strong>Expert Verified</strong>
+    <p>Real-world testing by acoustic specialists</p>
   </div>
-  <div class="trust-item">
-    <strong>✓ Unbiased Reviews</strong>
-    <p>Honest opinions based on real-world usage</p>
+  <div class="credential">
+    <strong>Unbiased Advice</strong>
+    <p>No sponsored placements or paid promotions</p>
   </div>
-  <div class="trust-item">
-    <strong>✓ Regular Updates</strong>
-    <p>Latest products and technologies reviewed</p>
+  <div class="credential">
+    <strong>Always Updated</strong>
+    <p>Regularly refreshed recommendations</p>
   </div>
 </div>
