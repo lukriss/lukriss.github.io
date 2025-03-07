@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Are Noise-Canceling Window Inserts Worth It?"
+---
 # Introduction to Noise-Canceling Window Inserts
 ![image](https://github.com/user-attachments/assets/4723502d-bd05-47e6-bf4a-7a5f9fd6795f)
 
