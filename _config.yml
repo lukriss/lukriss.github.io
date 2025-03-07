@@ -1,4 +1,4 @@
 title: "Soundproof Living"
 description: "Expert guides for noise reduction"
-theme: minima
+theme: jekyll-theme-minimal
 baseurl: "" # Leave empty for GitHub Pages
