@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Apartment Living Hack: Noise-Canceling Inserts for Renters Who Can’t Renovate"
+---
 ![image](https://github.com/user-attachments/assets/7a0166fb-8642-4e55-9a8e-9bb8a526dbc7)
 Apartment living can be a fantastic way to experience city life, but it often comes with a significant drawback: noise pollution. Whether it's the sound of traffic, noisy neighbors, or construction, excessive noise can disrupt sleep, concentration, and overall quality of life. For renters who can't renovate, finding effective solutions to mitigate noise can be challenging. This is where noise-canceling window inserts come into play, offering a practical and non-invasive way to reduce noise levels in apartments. These innovative inserts are designed to be installed into existing windows, providing a barrier against external noise without the need for costly renovations.
 
