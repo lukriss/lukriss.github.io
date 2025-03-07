@@ -1,4 +1,18 @@
-title: "Soundproof Living"
-description: "Expert guides for noise reduction"
-theme: jekyll-theme-minimal
-baseurl: "" # Leave empty for GitHub Pages
+title: Soundproof Living
+description: Expert guides for noise reduction
+url: https://lukriss.github.io
+baseurl: ""
+theme: minima
+
+# Google verification
+google_verify: OPERzfWD_hmIKNB8kHtfhJ1FKxiNM4q2nN61NSbtRrY
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Site structure
+include:
+  - _pages
