@@ -7,6 +7,11 @@ theme: minima
 # Google verification
 google_verify: OPERzfWD_hmIKNB8kHtfhJ1FKxiNM4q2nN61NSbtRrY
 
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
 # Build settings
 markdown: kramdown
 plugins:
