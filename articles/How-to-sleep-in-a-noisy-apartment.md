@@ -1,3 +1,7 @@
+---
+layout: default
+title: "How to Sleep In a Noisy Apartment"
+---
 # Introduction to Noise-Canceling Window Inserts
 ![image](https://github.com/user-attachments/assets/85b91487-cdaa-4cef-b385-ec4d34386101)
 
