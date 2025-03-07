@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "City Dwellers, Rejoice: How to Block Sirens, Honks, and Construction Noise"
+title: "How to Block Sirens, Honks, and Construction Noise"
 date: 2025-03-07
 categories: [home-improvement]
 permalink: /block-sirens-honks-construction-noise/
